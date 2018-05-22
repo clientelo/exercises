@@ -1,6 +1,7 @@
-.idea/
-out/
-.iml
+*.class
+*.iml
+.idea
+out
 target/
 pom.xml.tag
 pom.xml.releaseBackup
